@@ -1,3 +1,3 @@
 # Hello World!
 
-My nae is MickeyBlueyez
+My name is MickeyBlueyez
